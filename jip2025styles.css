@@ -2,9 +2,10 @@
 font-family: 'Roboto', sans-serif;
 src: url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 }
-
 h1, h2, h3, h4, h5, h6, p, div, span, a {
-font-family: 'Roboto', sans-serif;
+    font: 16px "Roboto", sans-serif;
+}
+
 h1 {font-size: 28px;}
 h2 {font-size: 26px; font-weight: bold;}
 h3 {font-size: 22px; font-weight: bold;}
