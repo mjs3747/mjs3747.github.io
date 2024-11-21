@@ -21,7 +21,9 @@ a {font-size: 18px;}
 .Skin .TE .ML .InputText{ width: 636px; height:100px;}
 
 .Skin .Matrix .table-cell{font-size:15px; line-height: 120%;}
+
 /* .Skin .Matrix th {font-size: 14px;line-height: 150%; background-color:#dedede;} */
+
 .Skin #Buttons #NextButton, .Skin #Buttons #PreviousButton {
 font-size: 17px; padding:8px;}
 
