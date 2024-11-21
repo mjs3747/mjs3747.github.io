@@ -19,7 +19,7 @@ a {font-size: 18px;}
 }
 
 /* Multiple Line Text Box size */
-.Skin .TE .ML .InputText{ width: 636px!important; height:80px!important;}
+.Skin .TE .ML .InputText{ width: 636px!important; height:100px!important;}
 
 .Skin .Matrix .table-cell{font-size:15px!important; line-height: 120%;}
 /* .Skin .Matrix th {font-size: 14px;line-height: 150%; background-color:#dedede;} */
