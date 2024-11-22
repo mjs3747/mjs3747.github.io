@@ -35,7 +35,7 @@ span {font-size: 16px;}
 /* MATRIX SCALES */
 .matscale {font-size: 14px/15px; font-weight: 300; }
 /* ANOTHER POSSIBLE OPTION */
-.LabelWrapper {font-size: 30px; font-weight: 300;}
+/*.LabelWrapper {font-size: 30px; font-weight: 300;} */
 
 /* BUTTONS */
 .Skin #Buttons #NextButton, .Skin #Buttons #PreviousButton { font-size: 17px; padding:8px;}
