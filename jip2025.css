@@ -3,8 +3,7 @@ font-family: 'Roboto', sans-serif;
 src: url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 }
 
-h1, h2, h3, h4, h5, h6, p, div, span, a {
-font-family: 'Roboto', sans-serif; }
+h1, h2, h3, h4, h5, h6, p, div, span, a { font-family: 'Roboto', sans-serif; }
 h1 {font-size: 28px;}
 h2 {font-size: 26px; font-weight: bold;}
 h3 {font-size: 22px;}
@@ -31,8 +30,7 @@ a {font-size: 18px;}
 .LabelWrapper {font-size: 6px; font-weight: 800;}
 
 /* BUTTONS */
-.Skin #Buttons #NextButton, .Skin #Buttons #PreviousButton {
-font-size: 17px; padding:8px;}
+.Skin #Buttons #NextButton, .Skin #Buttons #PreviousButton { font-size: 17px; padding:8px;}
 
 /* QUALTRICS FONT STYLE EXAMPLES FOR MOBILE */
 
