@@ -21,12 +21,12 @@ a {font-size: 18px;}
 .Skin .TE .ML .InputText{ width: 636px!important; height:100px!important;}
 
 /* MATRIX STYLES */
-.Skin .Matrix .table-cell{font-size:15px!important; line-height: 120%;}
+/* .Skin .Matrix .table-cell{font-size:15px!important; line-height: 120%;} */
 /* .Skin .Matrix th {font-size: 14px;line-height: 150%; background-color:#dedede;} */
 
 /* MATRIX QUESTIONS - NEED TO HAVE CLASS ADDED IN HTML IN SURVEY */
 .matquest {font-size: 15px; font-weight: 500; }
-/* MATRIX SCALE OPTIONS */
+/* MATRIX SCALES */
 .matscale {font-size: 14px; font-weight: 400; }
 .LabelWrapper {font-size: 6px; font-weight: 800;}
 
