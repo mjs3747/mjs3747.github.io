@@ -30,7 +30,7 @@ span {font-size: 16px;}
 /* .Skin .Matrix .table-cell{font-size:15px!important; line-height: 120%;} */
 /* .Skin .Matrix th {font-size: 14px;line-height: 150%; background-color:#dedede;} */
 
-/* MATRIX QUESTIONS - NEED TO HAVE <span class="matsale" ADDED IN HTML IN SURVEY */
+/* MATRIX QUESTIONS - NEED TO HAVE span class="matsale" ADDED IN HTML IN SURVEY */
 .matquest {font-size: 16px; font-weight: 300; }
 /* MATRIX SCALES */
 .matscale {font-size: 13px/14px; font-weight: 300; }
