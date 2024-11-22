@@ -16,6 +16,11 @@ div {font-size: 16px; line-height: 140%;}
 span {font-size: 16px;}
 a {font-size: 18px;}
 
+/* QUESTION SPACING */
+.Skin .Separator { margin:0px 20px; }
+.Skin .QuestionText { padding: 2px; }
+.Skin .QuestionBody { padding:0px 1px 0px 1px; }
+
 /* Multiple Line Text Box size */
 .Skin .TE .ML .InputText{ width: 636px!important; height:100px!important;}
 
@@ -27,7 +32,8 @@ a {font-size: 18px;}
 .matquest {font-size: 15px; font-weight: 500; }
 /* MATRIX SCALES */
 .matscale {font-size: 14px; font-weight: 400; }
-.LabelWrapper {font-size: 30px; font-weight: 800;}
+/* ANOTHER POSSIBLE OPTION */
+.LabelWrapper {font-size: 30px; font-weight: 300;}
 
 /* BUTTONS */
 .Skin #Buttons #NextButton, .Skin #Buttons #PreviousButton { font-size: 17px; padding:8px;}
