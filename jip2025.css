@@ -33,7 +33,7 @@ span {font-size: 16px;}
 /* MATRIX QUESTIONS - NEED TO HAVE <span class="matsale" ADDED IN HTML IN SURVEY */
 .matquest {font-size: 15px; font-weight: 300; }
 /* MATRIX SCALES */
-.matscale {font-size: 14px; font-weight: 400; }
+.matscale {font-size: 14px/15px; font-weight: 300; }
 /* ANOTHER POSSIBLE OPTION */
 .LabelWrapper {font-size: 30px; font-weight: 300;}
 
