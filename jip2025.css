@@ -28,6 +28,7 @@ a {font-size: 18px;}
 .matquest {font-size: 15px; font-weight: 500; }
 /* MATRIX SCALE OPTIONS */
 .matscale {font-size: 14px; font-weight: 400; }
+.LabelWrapper {font-size: 6px; font-weight: 800;}
 
 /* BUTTONS */
 .Skin #Buttons #NextButton, .Skin #Buttons #PreviousButton {
