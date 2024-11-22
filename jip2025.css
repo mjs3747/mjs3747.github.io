@@ -27,8 +27,8 @@ span {font-size: 16px;}
 .Skin .TE .ML .InputText { width: 636px!important; height:100px!important;}
 
 /* MATRIX STYLES */
-.Skin .Matrix .table-cell{font-size:15px!important; line-height: 120%;} */
-.Skin .Matrix th {font-size: 13px/14px; background-color:#dedede;}
+.Skin .Matrix .table-cell{font-size:15px!important; line-height: 120%;}
+.Skin .Matrix th {font-size: 18px/14px; background-color:#dedede;}
 
 /* MATRIX QUESTIONS - NEED TO HAVE span class="matsale" ADDED IN HTML IN SURVEY - COULDN'T GET TO WORK */
 /* .matquest {font-size: 24px/26px; font-weight: 400; } */
