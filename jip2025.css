@@ -20,8 +20,16 @@ a {font-size: 18px;}
 /* Multiple Line Text Box size */
 .Skin .TE .ML .InputText{ width: 636px!important; height:100px!important;}
 
+/* MATRIX STYLES */
 .Skin .Matrix .table-cell{font-size:15px!important; line-height: 120%;}
 /* .Skin .Matrix th {font-size: 14px;line-height: 150%; background-color:#dedede;} */
+
+/* MATRIX QUESTIONS - NEED TO HAVE CLASS ADDED IN HTML IN SURVEY */
+.matquest {font-size: 15px; font-weight: 500; }
+/* MATRIX SCALE OPTIONS */
+.matscale {font-size: 14px; font-weight: 400; }
+
+/* BUTTONS */
 .Skin #Buttons #NextButton, .Skin #Buttons #PreviousButton {
 font-size: 17px; padding:8px;}
 
