@@ -1,0 +1,43 @@
+@font-face{
+font-family: 'Roboto', sans-serif;
+src: url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+}
+
+h1, h2, h3, h4, h5, h6, p, div, span, a {
+font-family: 'Roboto', sans-serif; }
+h1 {font-size: 28px;}
+h2 {font-size: 26px; font-weight: bold;}
+h3 {font-size: 22px;}
+h4 {font-size: 22px; font-weight: bold;}
+h5 {font-size: 20px;font-weight: bold;}
+h6 {font-size: 18px;}
+p {font-size: 18px;}
+div {font-size: 16px; line-height: 140%;}
+span {font-size: 16px;}
+a {font-size: 18px;}
+
+
+/* Multiple Line Text Box size */
+.Skin .TE .ML .InputText{ width: 636px!important; height:100px!important;}
+
+.Skin .Matrix .table-cell{font-size:15px!important; line-height: 120%;}
+/* .Skin .Matrix th {font-size: 14px;line-height: 150%; background-color:#dedede;} */
+.Skin #Buttons #NextButton, .Skin #Buttons #PreviousButton {
+font-size: 17px; padding:8px;}
+
+/* QUALTRICS FONT STYLE EXAMPLES FOR MOBILE */
+
+@media (max-width: 480px) {
+.Skin .QuestionText {
+font-size: 20px;
+}
+.Skin .QuestionBody {
+font-size: 18px;
+}
+.Skin .QuestionBody {
+.Bordercolor: none;
+}
+.Skin .Inner .QuestionText {
+font-size: 16px;
+}
+}
