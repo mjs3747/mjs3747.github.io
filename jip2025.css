@@ -16,7 +16,6 @@ div {font-size: 16px; line-height: 140%;}
 span {font-size: 16px;}
 a {font-size: 18px;}
 
-
 /* Multiple Line Text Box size */
 .Skin .TE .ML .InputText{ width: 636px!important; height:100px!important;}
 
@@ -28,7 +27,7 @@ a {font-size: 18px;}
 .matquest {font-size: 15px; font-weight: 500; }
 /* MATRIX SCALES */
 .matscale {font-size: 14px; font-weight: 400; }
-.LabelWrapper {font-size: 6px; font-weight: 800;}
+.LabelWrapper {font-size: 16px; font-weight: 800;}
 
 /* BUTTONS */
 .Skin #Buttons #NextButton, .Skin #Buttons #PreviousButton { font-size: 17px; padding:8px;}
