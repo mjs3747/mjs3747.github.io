@@ -15,25 +15,25 @@ p {font-size: 18px;}
 /* A TAG SHOULD BE THE SAME SIZE AS P TAG */
 a {font-size: 18px;}
 /* FIRST PAGE PAR. IS A DIV */
-div {font-size: 16px/20px;}
-span {font-size: 16px;}
+div {font-size: 18px/20px;}
+span {font-size: 18px;}
 
 /* QUESTION SPACING */
 .Skin .Separator { margin: 0px 0px 0px 0px;}
 .Skin .QuestionText { padding: 0px 0px 10px 0px;}
-.Skin .QuestionBody { padding:0px 1px 0px 1px; border-width: 1px; border-color: #ff0000;}
+.Skin .QuestionBody { padding:0px 1px 0px 1px;}
 
 /* Multiple Line Text Box size */
 .Skin .TE .ML .InputText { width: 636px!important; height:100px!important;}
 
 /* MATRIX STYLES */
-.Skin .Matrix .table-cell{font-size:15px!important; line-height: 120%;}
+/* .Skin .Matrix .table-cell{font-size:15px!important; line-height: 120%;} */
 /* .Skin .Matrix th {font-size: 18px/14px; background-color:#dedede;} */
 
 /* MATRIX QUESTIONS - NEED TO HAVE span class="matsale" ADDED IN HTML IN SURVEY - COULDN'T GET TO WORK */
 .matquest {font-size: 20px; font-weight: 400; }
 /* MATRIX SCALES */
-.matscale {font-size: 12px/14px; font-weight: 400; }
+.matscale {font-size: 12px; font-weight: 400; }
 /* ANOTHER POSSIBLE OPTION */
 /*.LabelWrapper {font-size: 30px; font-weight: 300;} */
 
