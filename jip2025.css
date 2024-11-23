@@ -31,7 +31,7 @@ span {font-size: 18px;}
 /* .Skin .Matrix th {font-size: 18px/14px; background-color:#dedede;} */
 
 /* MATRIX QUESTIONS - NEED TO HAVE span class="matsale" ADDED IN HTML IN SURVEY - COULDN'T GET TO WORK */
-.matquest {font-size: 20px; font-weight: 400; }
+.matquest {font-size: 16px; font-weight: 400; }
 /* MATRIX SCALES */
 .matscale {font-size: 12px; font-weight: 400; }
 /* ANOTHER POSSIBLE OPTION */
