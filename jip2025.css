@@ -20,15 +20,11 @@ div {font-size: 18px/20px;}
 
 /* QUESTION SPACING */
 .Skin .Separator { margin: 0px 0px 0px 0px;}
-.Skin .QuestionText { font-size: 20px; padding: 0px 0px 10px 0px;}
-.Skin .QuestionBody { padding:0px 1px 0px 1px;}
+.Skin .QuestionText { padding: 0px 0px 10px 0px;}
+.Skin .QuestionBody { font-size: 16px; padding:0px 1px 0px 1px;}
 
 /* Multiple Line Text Box size */
 .Skin .TE .ML .InputText { width: 636px!important; height:100px!important;}
-
-/* MATRIX STYLES */
-/* .Skin .Matrix .table-cell{font-size:15px!important; line-height: 120%;} */
-/* .Skin .Matrix th {font-size: 18px/14px; background-color:#dedede;} */
 
 /* MATRIX QUESTIONS - NEED TO HAVE span class="matsale" ADDED IN HTML IN SURVEY - COULDN'T GET TO WORK */
 .matquest {font-size: 16px; font-weight: 400; }
@@ -39,6 +35,10 @@ div {font-size: 18px/20px;}
 
 /* BUTTONS */
 .Skin #Buttons #NextButton, .Skin #Buttons #PreviousButton { font-size: 17px; padding:8px;}
+
+/* MATRIX STYLES NOT USING */
+/* .Skin .Matrix .table-cell{font-size:15px!important; line-height: 120%;} */
+/* .Skin .Matrix th {font-size: 18px/14px; background-color:#dedede;} */
 
 /* QUALTRICS FONT STYLE EXAMPLES FOR MOBILE */
 
