@@ -20,7 +20,7 @@ div {font-size: 18px/20px;}
 
 /* QUESTION SPACING */
 .Skin .Separator { margin: 0px 0px 0px 0px;}
-.Skin .QuestionText { font-size: 18px; padding: 0px 0px 10px 0px;}
+.Skin .QuestionText { font-size: 12px; padding: 0px 0px 10px 0px;}
 .Skin .QuestionBody { padding:0px 1px 0px 1px;}
 
 /* Multiple Line Text Box size */
