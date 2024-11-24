@@ -40,6 +40,8 @@ div {font-size: 18px/20px;}
 /* .Skin .Matrix .table-cell{font-size:15px!important; line-height: 120%;} */
 /* .Skin .Matrix th {font-size: 18px/14px; background-color:#dedede;} */
 
+.Skin .SkinInner { width: 80%!Important; margin-left:9%!Important; }
+
 /* QUALTRICS FONT STYLE EXAMPLES FOR MOBILE */
 
 @media (max-width: 480px) {
