@@ -27,7 +27,7 @@ div {font-size: 18px/20px;}
 .Skin .QuestionBody { font-size: 16px; padding:0px 1px 0px 1px;}
 
 /* WIDTH OF RADIO BUTTON CHOICE */
-.Skin .MC .QuestionText li{line-width:400px;padding:0!important;}
+.Skin .MC .QuestionText li{ width:400px;padding:0!important;}
 
 /* Multiple Line Text Box size */
 .Skin .TE .ML .InputText { width: 636px!important; height:100px!important;}
